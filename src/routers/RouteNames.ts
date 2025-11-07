@@ -1,0 +1,7 @@
+export enum RouteNames {
+	SPLASH_SCREEN = 'SPLASH_SCREEN',
+	LOGIN = 'LOGIN',
+	REGISTER = 'REGISTER',
+	MAIN = 'MAIN'
+}
+
